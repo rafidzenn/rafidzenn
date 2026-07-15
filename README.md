@@ -1,4 +1,4 @@
-## I'm Rafid **scalable** Islam 👋
+## Rafid **scalable** Islam here 👋
 
 I am an early-career engineer specializing in the intersection of Artificial Intelligence and robust Software Engineering. I focus on moving complex ideas from academic research into scalable production systems.
 
