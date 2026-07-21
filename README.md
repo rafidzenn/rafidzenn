@@ -5,7 +5,7 @@ Early-career Software Engineer with a B.Sc. in Electrical and Computer Engineeri
 **Tech Stack & Domains Which recruiter or client can trust me with**
 * **Machine Learning & AI:** Supervised/Unsupervised Learning, Computer Vision, Reinforcement Learning (Agent/Policy design).
 * **Software Engineering:** Object-Oriented Programming (Python, Java), Clean Code Practices, RESTful API backend development.
-* **Tools & Frameworks:** PyTorch, TensorFlow, scikit-learn, MongoDB.
+* **Tools & Frameworks:** Shadcn , PyTorch, TensorFlow, scikit-learn, MongoDB.
 
 **My Lanes and What I thrive on**
 * Developing full-stack platforms with Python backends and optimizing AI models for real-world deployment.
