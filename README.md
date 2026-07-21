@@ -1,45 +1,54 @@
 ## Hi I'm Rafidul Islam (Shadcn/UI)👋
 
-Early-career Software Engineer with a B.Sc. in Electrical and Computer Engineering, specializing in the intersection of Artificial Intelligence and robust Software Engineering. I focus on moving complex ideas from academic research into scalable production systems.
+Early-career AI/ML & Software Engineer specializing in the intersection of Artificial Intelligence (Computer Vision & Speech/Audio) and robust backend architecture. I focus on moving complex models from research into scalable, production-ready systems, with a strong emphasis on balancing latency, cost, and accuracy in production AI.
 
-**Tech Stack & Domains Which recruiter or client can trust me with**
-* **Machine Learning & AI:** Supervised/Unsupervised Learning, Computer Vision, Reinforcement Learning (Agent/Policy design).
-* **Software Engineering:** Object-Oriented Programming (Python, Java), Clean Code Practices, RESTful API backend development.
-* **Tools & Frameworks:** Shadcn , PyTorch, TensorFlow, scikit-learn, MongoDB.
+Core Domains You Can Trust Me With
 
-**My Lanes and What I thrive on**
-* Developing full-stack platforms with Python backends and optimizing AI models for real-world deployment.
+Applied AI & ML: Computer Vision (Image processing, OCR), Speech/Audio pipelines (STT/TTS), and custom RAG/LLM integrations using Frontier AI models.
 
+Backend Engineering: Building scalable REST & Streaming APIs (Python, FastAPI, Django) to serve AI features without bottlenecking the system.
 
-### 🧠 Engineering Philosophy & Mindset
-Modern software engineering requires more than just writing syntax. I approach development with a generalist mindset, prioritizing the ability to adapt across the stack as project needs evolve. 
-* **SDLC Mastery:** Strong foundation in the Software Development Life Cycle, from gathering requirements and designing database schemas to deployment and maintenance.
-* **AI-Assisted Development:** I leverage AI coding assistants (Copilot, Claude) to accelerate productivity while rigorously evaluating their output to maintain full ownership of code correctness, security, and algorithmic integrity.
-* **Systems Thinking:** I rely on a firm grasp of Object-Oriented Analysis and Design (OOAD), core algorithms, and data structures to debug complex issues and build scalable solutions.
+Deployment & Tooling: Docker containerization, Git version control, and clean object-oriented code practices.
 
-### 🛠️ Technical Arsenal
+🧠 Engineering Philosophy & Mindset
+Modern AI engineering requires more than just training models; it requires building the bridge between probabilistic AI and deterministic software.
 
-**Backend & Architecture**
-* **Languages & Frameworks:** Python (Expert), Django / FastAPI / Flask.
-* **API & Communication:** RESTful API design, gRPC, and event-driven architectures.
-* **Infrastructure:** Docker containerization, Git version control, and exposure to cloud platforms (AWS/GCP).
+Systems & Trade-off Thinking: I rely on a firm grasp of core algorithms and data structures to debug complex issues, constantly evaluating the trade-offs between API latency, compute cost, and model reliability in production.
 
-**Frontend & User Interface**
-* **Core Web:** JavaScript (ES6+), HTML5, CSS3.
-* **Frameworks & UI:** React, Next.js, TypeScript.
-* **Styling & State:** Tailwind CSS, Redux, Zustand, Context API.
+AI-Assisted Development: I leverage AI coding assistants to accelerate productivity while rigorously evaluating their output to maintain full ownership of code correctness, security, and algorithmic integrity.
 
-**Machine Learning & AI**
-* **Core Domains:** Supervised/Unsupervised Learning, Computer Vision, Reinforcement Learning.
-* **Tools:** PyTorch, TensorFlow, scikit-learn, Keras.
+Full SDLC Ownership: From dataset preparation and database schema design to containerizing (Docker) and exposing models via REST endpoints.
 
-### 🚀 Featured Engineering Projects
+🛠️ Technical Arsenal
+Machine Learning & AI (Primary Focus)
 
-* **Vault BD:** A comprehensive, full-stack personal finance application. Engineered the frontend and backend architectures utilizing Next.js, TypeScript, and MongoDB for high-performance data handling and secure user workflows.
-* **Neural Network Pattern Recognizer:** Developed a core Computer Vision application leveraging Python and TensorFlow to classify and process complex visual data sets. 
-* **RL Hazard Navigator:** Designed an autonomous exploration system using Markov Decision Processes (MDP) and Q-learning, optimizing safe navigation through highly stochastic simulated environments. 
+Domains: Computer Vision / OCR (Extracting & structuring text), Speech-to-Text (STT), Text-to-Speech (TTS), Retrieval-Augmented Generation (RAG).
 
-### 🌱 Continuous Learning
-I am deeply committed to self-directed learning beyond formal coursework. Currently, I am expanding my knowledge in modern backend communication patterns and reading primary source documentation (RFCs) to reduce reliance on tutorials. 
+Frameworks & Tools: PyTorch, TensorFlow, OpenCV, Whisper, scikit-learn.
 
+Frontier AI & LLMs: OpenAI, Groq, ElevenLabs.
+
+Backend & Architecture
+
+Languages & Frameworks: Python (Expert), Django, FastAPI, Flask.
+
+API & Communication: RESTful API design, Streaming APIs, event-driven architectures.
+
+Infrastructure & DB: Docker, Git/GitHub workflows, PostgreSQL, MongoDB.
+
+Frontend & User Interface (Full-Stack Capability)
+
+Frameworks & UI: React, Next.js, TypeScript, Tailwind CSS.
+
+🚀 Featured Engineering Projects
+Conversational Voice AI Agent: Built a low-latency, real-time customer support bot featuring streaming speech-to-text (Whisper), an LLM grounded in a custom RAG knowledge base, and streaming text-to-speech. Handled voice-activity detection and optimized time-to-first-audio to sub-1 second for production responsiveness.
+
+Computer Vision / Neural Network Recognizer: Developed a core CV application leveraging Python and TensorFlow to classify, process, and extract structures from complex visual datasets.
+
+Vault BD: A comprehensive, full-stack platform. Engineered the REST API backend and frontend architectures utilizing Next.js, PostgreSQL/MongoDB, demonstrating the ability to handle high-performance data interchange and secure user workflows.
+
+🌱 Continuous Learning
+I am deeply committed to self-directed learning. Currently, I am expanding my knowledge in modern streaming API patterns and reading primary source documentation (RFCs) to reduce reliance on tutorials and build highly optimized data pipelines.
+
+📫 Let's Connect: [LinkedIn] | ✉️ [irafid967@gmail.com]
 📫 **Let's Connect:** [[LinkedIn](https://www.linkedin.com/in/rafid-islam-2405b42a1/)] | ✉️ [irafid967@gmail.com]
