@@ -42,4 +42,4 @@ Modern software engineering requires more than just writing syntax. I approach d
 ### 🌱 Continuous Learning
 I am deeply committed to self-directed learning beyond formal coursework. Currently, I am expanding my knowledge in modern backend communication patterns and reading primary source documentation (RFCs) to reduce reliance on tutorials. 
 
-📫 **Let's Connect:** [Link to your LinkedIn] | ✉️ [Your Professional Email]
+📫 **Let's Connect:** [[LinkedIn](https://www.linkedin.com/in/rafid-islam-2405b42a1/)] | ✉️ [Your Professional Email]
