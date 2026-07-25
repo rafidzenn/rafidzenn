@@ -33,7 +33,7 @@ Deployment & Tooling: Docker containerization, Git version control, and clean ob
 ### 🚀 Featured Engineering Projects
 
 * **Computer Vision Projects:** A Work in progress. A central hub for my computer vision and Optical Character Recognition (OCR) projects.
-* **Vault BD:** A comprehensive, full-stack personal finance application. Engineered the frontend and backend architectures utilizing Next.js, TypeScript, and MongoDB for high-performance data handling and secure user workflows.
+* **Vault BD:** This was a paid-project. A comprehensive, full-stack personal finance application. Engineered the frontend and backend architectures utilizing Next.js, TypeScript, and MongoDB for high-performance data handling and secure user workflows.
 * **Neural Network Pattern Recognizer:** Developed a core Computer Vision application leveraging Python and TensorFlow to classify and process complex visual data sets. 
 * **RL Hazard Navigator:** Designed an autonomous exploration system using Markov Decision Processes (MDP) and Q-learning, optimizing safe navigation through highly stochastic simulated environments. 
 
