@@ -28,7 +28,7 @@ Deployment & Tooling: Docker containerization, Git version control, and clean ob
 **Machine Learning & AI**
 * **Core Domains:** Computer Vision / OCR (Extracting & structuring text), Speech-to-Text (STT), Text-to-Speech (TTS), Retrieval-Augmented Generation (RAG).
 * **Tools:** OpenCV, Whisper, Pipecat, PyTorch, TensorFlow, scikit-learn, Keras.
-* **Tools:** OpenAI, Groq, ElevenLabs.
+* **Tools:** OpenAI, Groq, ElevenLabs, Qwen.
 
 ### 🚀 Featured Engineering Projects
 
