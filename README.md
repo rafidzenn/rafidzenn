@@ -18,7 +18,7 @@ Deployment & Tooling: Docker containerization, Git version control, and clean ob
 **Backend & Architecture**
 * **Languages & Frameworks:** Python (Expert), Django / FastAPI / Flask.
 * **API & Communication:** RESTful API design, gRPC, and event-driven architectures.
-* **Infrastructure:** Docker containerization, Git version control, and exposure to cloud platforms (AWS/GCP).
+* **Infrastructure:** Docker containerization, Fargate, Git version control, and exposure to cloud platforms (AWS/GCP).
 
 **Frontend & User Interface**
 * **Core Web:** JavaScript (ES6+), HTML5, CSS3.
@@ -27,7 +27,7 @@ Deployment & Tooling: Docker containerization, Git version control, and clean ob
 
 **Machine Learning & AI**
 * **Core Domains:** Computer Vision / OCR (Extracting & structuring text), Speech-to-Text (STT), Text-to-Speech (TTS), Retrieval-Augmented Generation (RAG).
-* **Tools:** OpenCV, Whisper, Pipecat, PyTorch, TensorFlow, scikit-learn, Keras.
+* **Tools:** OpenCV, Whisper, Pipecat, PyTorch, TensorFlow, scikit-learn, Keras.r
 * **Tools:** OpenAI, Groq, ElevenLabs, Qwen.
 
 ### 🚀 Featured Engineering Projects
