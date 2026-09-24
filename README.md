@@ -9,7 +9,7 @@ Backend Engineering: Building scalable REST & Streaming APIs (Python, FastAPI, D
 
 Deployment & Tooling: Docker containerization, Git version control, and clean object-oriented code practices. 
 
-* **SDLC Mastery:** Strong foundation in the Software Development Life Cycle, from gathering requirements and designing database schemas to deployment and maintenance.
+* **SDLC Mastery:** Strong foundation in Software Development Life Cycle, from gathering requirements and designing database schemas to deployment and maintenance.
 * **AI-Assisted Development:** I leverage AI coding assistants (Copilot, Claude) to accelerate productivity while rigorously evaluating their output to maintain full ownership of code correctness, security, and algorithmic integrity.
 * **Systems Thinking:** I rely on a firm grasp of Object-Oriented Analysis and Design (OOAD), core algorithms, and data structures to debug complex issues and build scalable solutions.
 
