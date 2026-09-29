@@ -2,6 +2,11 @@
 
 I believe the skills for AI Engineering is, like Andrew NG says, much broader than the “AI Engineer” role. When you deeply understand how software works, you can build much more effectively. 
 
+
+
+
+All developers today should know how to work with the cloud, and only a smaller number have a “Cloud engineer” title. Similarly, all developers — full-stack engineers, data engineers, DevOps engineers, machine learning engineers, and, yes, AI engineers — will need AI engineering skills.
+
 B.Sc. in Computer Science & Engineering from North South University, specializing in (Major) trail- Artificial Intelligence, and (Minor) Trail - Algorithms and Computation. I focus on Learning first, followed by building practically with what I learnt; Not the other way round. I always believe conceptual internalisation of fundamental concepts of programming is not built by making a project right from the getgo. I still believe at first the theory should be memorized. If not memorized, then at least internalised. After internalisation of this theory, start Practice! This technique is useful because as soon as you complete the theory, i.e when the full internalization is complete, it makes your confidence extremely high when you do practical on that theory. Recently, I learnt gRPC framework and when is which one used: gROC vs RESTapi, using this technique. So, I do not agree that doing a live project on a topic
 
 ### 🧠 My Lanes (where you will find me at) and my Core Engineering Philosophy + Mindset
